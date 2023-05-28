@@ -1,0 +1,24 @@
+h3 {
+	color: red;
+
+}
+.abc{
+	background-color:yellow ;
+
+}
+.efg{
+	border: 1px solid black;
+
+}
+.ijk{
+	font-size: 25px;
+}
+
+div{
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
